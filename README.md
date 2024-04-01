@@ -52,11 +52,6 @@ Web-разработчик
   </div>
 
 ### GitHub статистика:
-<a href="https://github.com/axelwarn2" align="left">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelwarn2\&layout=compact)</a>
-
-
-
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelwarn2&show_icons=true&locale=en&layout=compact" alt="axelwarn2" /></ p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=axelwarn2)
